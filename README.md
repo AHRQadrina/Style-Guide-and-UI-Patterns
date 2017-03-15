@@ -1,0 +1,2 @@
+# Style-Guide-and-UI-Patterns
+  User Interface Design patterns are recurring solutions that solve common design problems. Design patterns are standard reference points for the experienced user interface designer.  Dwell into the patterns below to learn a common language of web design.  Design patterns provide a common language between designers. They allow for debate over alternatives, where merely mentioning the name of a design pattern implicitly carries much more meaning than merely the name.
